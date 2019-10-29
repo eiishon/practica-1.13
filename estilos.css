@@ -1,0 +1,22 @@
+html{
+    background-color: wheat;
+    color: darkred;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    color: brown;
+}
+p.der {
+text-align: right;
+}
+
+p.cen {
+    text-align: center;
+}
+
+p.izq{ 
+    text-align: left;
+}
